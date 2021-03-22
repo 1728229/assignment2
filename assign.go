@@ -6,4 +6,5 @@ func main() {
 	fmt.Println("First")
 	fmt.Println("Second")
 	fmt.Println("third")
+	fmt.Println("Fourth")
 }
